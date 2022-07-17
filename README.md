@@ -1,2 +1,2 @@
 # Kr3shnik.github.io
-Cool WEbsite of my writeups and stuff
+Cool Website of my writeups and stuff
